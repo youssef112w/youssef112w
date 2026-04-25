@@ -15,7 +15,7 @@
 pragma solidity ^0.8.18;
 
 contract AboutMe {
-    string public name    = "Youssef";
+    string public name    = "Ateed";
     string public role    = "Smart Contract Auditor";
     string public toolkit = "Foundry | Chisel | Slither | Echidna";
     string public focus   = "Finding vulnerabilities before hackers do";
