@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20%7C%20Smart%20Contract%20Auditor&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Securing%20the%20Decentralized%20World%20🔐&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ATEED%20%7C%20Smart%20Contract%20Auditor&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Securing%20the%20Decentralized%20World%20🔐&descAlignY=55&descSize=16"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Smart+Contract+Auditor+%F0%9F%94%8D;Solidity+%7C+Foundry+%7C+Web3+Security;Finding+bugs+before+hackers+do+%F0%9F%90%9B" alt="Typing SVG" />
