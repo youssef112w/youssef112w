@@ -22,38 +22,6 @@ contract AboutMe {
     bool   public openToWork = true;
 }
 ```
-
----
-
-### 🚀 Current Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🔒 FundMe Audit**
-```
-Status  : ✅ Completed
-Stack   : Solidity, Foundry
-Network : Sepolia Testnet
-Focus   : Reentrancy, Access Control
-```
-
-</td>
-<td width="50%">
-
-**⚡ Learning Path**
-```
-✅ Foundry Fundamentals
-✅ Smart Contract Basics
-🔄 Advanced Auditing Techniques
-⏳ CTF Challenges (coming soon)
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🛡️ Audit Toolkit
